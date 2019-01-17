@@ -1,0 +1,10 @@
+Person: Aw shit, MC Plus+ man. What's this shit here, dude?
+MC Plus+: Hey man, I'm just writing some code to battle.
+Person: I'm seeing, like... recursive algorithms, man, patterns... shit.
+MC Plus+: See it's like this, it's like this: There's too many sucker MCs, right?
+Person: Yeah?
+MC Plus+: And no one's worthy to battle. So, I mean, what am I gonna do? Am I gonna battle Monzy? Please, man...
+Person: Shit, man, come on.
+MC Plus+: So there's so many sucker MCs, and MC Plus+ ain't got no one worthy to battle, so I have to write this AI program.
+Person: Fuck yeah, man. Shit.
+MC Plus+: I call it Max Flow.
